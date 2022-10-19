@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+        <listEntry value="/myproject2/src/myproject2/CustomerView.java"/>
+    </listAttribute>
+    <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+        <listEntry value="1"/>
+    </listAttribute>
+    <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="myproject2.CustomerView"/>
+    <stringAttribute key="org.eclipse.jdt.launching.MODULE_NAME" value="myproject2"/>
+    <stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="myproject2"/>
+</launchConfiguration>

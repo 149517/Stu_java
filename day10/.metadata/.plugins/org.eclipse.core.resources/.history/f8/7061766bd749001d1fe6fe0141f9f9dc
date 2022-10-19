@@ -1,0 +1,14 @@
+package studyenum;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class EnumTestTest {
+
+	@Test
+	public void testTestAbc() {
+		fail("Not yet implemented");
+	}
+
+}

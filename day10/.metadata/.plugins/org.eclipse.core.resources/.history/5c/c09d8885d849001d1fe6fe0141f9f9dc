@@ -1,0 +1,10 @@
+package studyenum;
+
+
+public class EnumTest {
+	
+
+	public void testAbc() {
+		System.out.println("nafguehgueh".toString());
+	}
+}
